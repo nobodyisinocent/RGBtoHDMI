@@ -4,6 +4,7 @@ The original RGB2HDMI, designed by c0pperdragon can be found here: https://githu
 
 # Low profile board based on design from c0pperdragon
 Originally, I made my own version since I wanted the smallest possible pcb for my personnal use, and also for the use of a friend.
+The aim of these designs is to allow the combined use of the RGB2HDMI and others expansions as accelerator boards for example like the big board of the Mega Midget Racer.
 Actually, There is one version specially designed for the CDTV, an various designs for the A500.
 The goal is always the same,having a nice and small board.
 
@@ -32,7 +33,7 @@ The goal is always the same,having a nice and small board.
 
 Two designs versions have been done. Here they are:
 
-First design with Pi0 located between CIA and GARY:
+First design with Pi0 located between CIA and PAULA:
 ![V4](https://user-images.githubusercontent.com/80821708/132412268-e0bb7d3b-5a37-4486-aa96-4f820c219baa.png)
 
 Second version, the smallest design version with the Pi0 installed just onto CIA with HDMI output on the back of the AMIGA.
@@ -46,6 +47,7 @@ Always with the same goal, as small as possible, this board uses the CPLD Rev1.1
 Please note the sources of this board are not available here since the pcb is under production. The Kicad sources & Gerber will be uploaded when the board will be assembled and tested.
 
 The firmware can be downloaded onto the official Github of the original CPLD version from hoglet67 here:
+
 https://github.com/hoglet67/RGBtoHDMI/releases
 
 To install the firmware, simply extract the files to the µ-SD card's root.
@@ -56,4 +58,5 @@ To install the firmware, simply extract the files to the µ-SD card's root.
 
 
 I hope you'll enjoy these versions of this great device !
+
 -Tuxbar81
