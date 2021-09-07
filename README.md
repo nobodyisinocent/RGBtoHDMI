@@ -35,7 +35,7 @@ Two designs versions have been done. Here they are:
 First design with Pi0 located between CIA and GARY:
 ![V4](https://user-images.githubusercontent.com/80821708/132412268-e0bb7d3b-5a37-4486-aa96-4f820c219baa.png)
 
-Second version, the smallest design vrsion with the Pi0 installed just onto CIA with HDMI output on the back of the AMIGA.
+Second version, the smallest design version with the Pi0 installed just onto CIA with HDMI output on the back of the AMIGA.
 It was special request of my friend Lolof, and perhaps the best one of the two A500 design:
 ![image](https://user-images.githubusercontent.com/80821708/132412629-29ea0ea0-a922-4344-a19a-af96bae85576.png)
 
