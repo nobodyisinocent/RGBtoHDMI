@@ -50,7 +50,7 @@ The firmware can be downloaded onto the official Github of the original CPLD ver
 
 https://github.com/hoglet67/RGBtoHDMI/releases
 
-To install the firmware, simply extract the files to the µ-SD card's root.
+To install the firmware, as for the first version of the RGBtoHDMI, simply extract the files to the µ-SD card's root.
 
 ![image](https://user-images.githubusercontent.com/80821708/132413337-8521b861-3e15-4d48-8267-1b57a7e57c50.png)
 
