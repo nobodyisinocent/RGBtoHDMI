@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name RGB2HDMI-Low_profile-rescue)(type Legacy)(uri ${KIPRJMOD}/RGB2HDMI-Low_profile-rescue.lib)(options "")(descr ""))
+  (lib (name RGB2HDM-CIAI-Low_profile-rescue)(type Legacy)(uri ${KIPRJMOD}/RGB2HDM-CIAI-Low_profile-rescue.lib)(options "")(descr ""))
+  (lib (name RGB2HDM-CIA-Low_profile-rescue)(type Legacy)(uri ${KIPRJMOD}/RGB2HDM-CIA-Low_profile-rescue.lib)(options "")(descr ""))
+)
