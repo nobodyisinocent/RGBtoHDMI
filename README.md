@@ -42,7 +42,7 @@ It was special request of my friend Lolof, and perhaps the best one of the two A
 
 
 # Tiny RGB2HDMI CPLD design
-Always with the same goal, as small as possible, this board uses the CPLD Rev1.1 design from solarmon. But, since the configuration menu is accessible with one button, I have removed the 3 buttons, the screen port (no interest for my use) and finally, the JTAG port since the CPLD can be programmed directly from the Pi0
+Always with the same goal, as small as possible, this board uses the CPLD Rev1.1 design from solarmon. But, since the configuration menu is accessible with one button, the 3 buttons, the OSD connector (no interest for my use) and finally, the JTAG port since the CPLD can be programmed directly from the Pi0 were removed.
 
 Please note the sources of this board are not available here since the pcb is under production. The Kicad sources & Gerber will be uploaded when the board will be assembled and tested.
 
