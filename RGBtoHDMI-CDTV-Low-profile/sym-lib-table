@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name RGB2HDMI-CDTV-Low_profile-rescue)(type Legacy)(uri ${KIPRJMOD}/RGB2HDMI-CDTV-Low_profile-rescue.lib)(options "")(descr ""))
+)
