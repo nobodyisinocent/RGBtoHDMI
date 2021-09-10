@@ -1,6 +1,8 @@
 # RGBtoHDMI
 The RGBtoHDMI device adds an HDMI output to your AMIGA only in OCS display mode thanks to the use of a Raspberry Pi0.
-The original RGB2HDMI, designed by c0pperdragon can be found here: https://github.com/c0pperdragon/Amiga-Digital-Video/
+The original RGB2HDMI, designed by c0pperdragon can be found here:
+
+https://github.com/c0pperdragon/Amiga-Digital-Video/
 
 # Low profile board based on design from c0pperdragon
 Originally, I made my own version since I wanted the smallest possible pcb for my personnal use, and also for the use of a friend.
