@@ -52,9 +52,9 @@ https://github.com/hoglet67/RGBtoHDMI/releases
 
 To install the firmware, as for the first version of the RGBtoHDMI, simply extract the files to the µ-SD card's root.
 
-![image](https://user-images.githubusercontent.com/80821708/132413337-8521b861-3e15-4d48-8267-1b57a7e57c50.png)
+![image](https://user-images.githubusercontent.com/80821708/132826561-6fb60b14-e7db-407c-a425-348a76279220.png)
 
-![image](https://user-images.githubusercontent.com/80821708/132413395-8d22f6ea-96c5-46a9-9929-834e6a1945d8.png)
+![image](https://user-images.githubusercontent.com/80821708/132827916-c7b55879-f51a-4bb0-92b4-2e005b7a4995.png)
 
 
 I hope you'll enjoy these versions of this great device !
