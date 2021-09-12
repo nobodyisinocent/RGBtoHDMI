@@ -42,6 +42,19 @@ Second version, the smallest design version with the Pi0 installed just onto CIA
 It was special request of my friend Lolof, and perhaps the best one of the two A500 design:
 ![image](https://user-images.githubusercontent.com/80821708/132412629-29ea0ea0-a922-4344-a19a-af96bae85576.png)
 
+And some pictures from Lolof of the rgb2hdmi in action onto his A500 !
+
+![IMG_20210423_145139](https://user-images.githubusercontent.com/80821708/132981505-030add7e-4199-458c-a330-fcac5729eac1.jpg)
+
+![IMG_20210423_211447](https://user-images.githubusercontent.com/80821708/132981508-14c5bdd8-64be-44bb-870c-06a4b601cd61.jpg)
+
+![IMG_20210213_005351](https://user-images.githubusercontent.com/80821708/132981515-8da6a3e6-85f4-4889-8c44-c4605345ae53.jpg)
+
+![IMG_20210213_005358](https://user-images.githubusercontent.com/80821708/132981519-db6cba76-727e-43c0-984e-e7bd96fe2b86.jpg)
+
+![IMG_20210213_005457](https://user-images.githubusercontent.com/80821708/132981528-32f65116-420a-4bd4-ae75-6ccdb10f2052.jpg)
+
+![IMG_20210213_005314](https://user-images.githubusercontent.com/80821708/132981533-9b068d35-23b8-4d4f-8aa6-f0ac9f72b23c.jpg)
 
 # Tiny RGB2HDMI CPLD design
 Always with the same goal, as small as possible, this board uses the CPLD Rev1.1 design from solarmon. But, since the configuration menu is accessible with one button, the 3 buttons, the OSD connector (no interest for my use) and finally, the JTAG port since the CPLD can be programmed directly from the Pi0 were removed.
