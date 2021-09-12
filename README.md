@@ -56,6 +56,12 @@ And some pictures from Lolof of this second version rgb2hdmi in action onto his 
 
 ![IMG_20210213_005314](https://user-images.githubusercontent.com/80821708/132981533-9b068d35-23b8-4d4f-8aa6-f0ac9f72b23c.jpg)
 
+And the first version onto my A500+ Red edition!
+
+![IMG_20210501_200834_resultat](https://user-images.githubusercontent.com/80821708/132984767-08344267-75b9-4640-849e-3868458e6e78.jpg)
+
+![IMG_20210501_200843_resultat](https://user-images.githubusercontent.com/80821708/132984772-09681e47-98d3-4730-8c78-369d51cbf282.jpg)
+
 # Tiny RGB2HDMI CPLD design
 Always with the same goal, as small as possible, this board uses the CPLD Rev1.1 design from solarmon. But, since the configuration menu is accessible with one button, the 3 buttons, the OSD connector (no interest for my use) and finally, the JTAG port since the CPLD can be programmed directly from the Pi0 were removed.
 
