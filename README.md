@@ -42,7 +42,7 @@ Second version, the smallest design version with the Pi0 installed just onto CIA
 It was special request of my friend Lolof, and perhaps the best one of the two A500 design:
 ![image](https://user-images.githubusercontent.com/80821708/132412629-29ea0ea0-a922-4344-a19a-af96bae85576.png)
 
-And some pictures from Lolof of the rgb2hdmi in action onto his A500 !
+And some pictures from Lolof of this second version rgb2hdmi in action onto his A500 !
 
 ![IMG_20210423_145139](https://user-images.githubusercontent.com/80821708/132981505-030add7e-4199-458c-a330-fcac5729eac1.jpg)
 
