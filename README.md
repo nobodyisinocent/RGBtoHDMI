@@ -5,7 +5,7 @@ The original RGB2HDMI, designed by c0pperdragon can be found here:
 https://github.com/c0pperdragon/Amiga-Digital-Video/
 
 # Low profile board based on design from c0pperdragon
-Originally, I made my own version since I wanted the smallest possible pcb for my personnal use, and also for the use of a friend.
+Originally, I made my own version since I wanted the smallest possible pcb for my personnal use, and also for the use of my friend Lolof.
 The aim of these designs is to allow the combined use of the RGB2HDMI and others expansions as accelerator boards for example like the big board of the Mega Midget Racer.
 Actually, There is one version specially designed for the CDTV, and various designs for the AMIGA computers.
 The goal is always the same,having a nice and small board.
