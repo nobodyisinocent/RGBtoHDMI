@@ -63,9 +63,7 @@ And the first version onto my A500+ Red edition!
 ![IMG_20210501_200843_resultat](https://user-images.githubusercontent.com/80821708/132984772-09681e47-98d3-4730-8c78-369d51cbf282.jpg)
 
 # Tiny RGB2HDMI CPLD design
-Always with the same goal, as small as possible, this board uses the CPLD Rev1.1 design from solarmon. But, since the configuration menu is accessible with one button, the 3 buttons, the OSD connector (no interest for my use) and finally, the JTAG port since the CPLD can be programmed directly from the Pi0 were removed.
-
-Please note the sources of this board are not available here since the pcb is under production. The Kicad sources & Gerber will be uploaded when the board will be assembled and tested.
+Always with the same goal, as small as possible, this board uses the CPLD Rev1.1 design from solarmon. But, since the configuration menu is accessible with one button, the 3 buttons and the OSD connector (no interest for my use).
 
 The firmware can be downloaded onto the official Github of the original CPLD version from hoglet67 here:
 
@@ -73,9 +71,7 @@ https://github.com/hoglet67/RGBtoHDMI/releases
 
 To install the firmware, as for the first version of the RGBtoHDMI, simply extract the files to the µ-SD card's root.
 
-![image](https://user-images.githubusercontent.com/80821708/132826561-6fb60b14-e7db-407c-a425-348a76279220.png)
-
-![image](https://user-images.githubusercontent.com/80821708/132827916-c7b55879-f51a-4bb0-92b4-2e005b7a4995.png)
+Here some pictures from Lolof of the Tiny CPLD RGBtoHDMI installed onto an A500 with the excellent TK030 from Matze !
 
 ![1633015126219_resultat](https://user-images.githubusercontent.com/80821708/135524331-9036771d-9546-4b01-b948-35bdff91a01b.jpg)
 
