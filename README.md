@@ -63,13 +63,13 @@ And the first version onto my A500+ Red edition!
 ![IMG_20210501_200843_resultat](https://user-images.githubusercontent.com/80821708/132984772-09681e47-98d3-4730-8c78-369d51cbf282.jpg)
 
 # Tiny RGB2HDMI CPLD design
-Always with the same goal, as small as possible, this board uses the CPLD Rev1.1 design from solarmon. But, since the configuration menu is accessible with one button, the 3 buttons and the OSD connector (no interest for my use).
+Always with the same goal, as small as possible, this board uses the CPLD Rev1.1 design from solarmon. But, since the configuration menu is accessible with one button, the 3 buttons and the OSD connector (no interest for my use) have been removed.
 
 The firmware can be downloaded onto the official Github of the original CPLD version from hoglet67 here:
 
 https://github.com/hoglet67/RGBtoHDMI/releases
 
-To install the firmware, as for the first version of the RGBtoHDMI, simply extract the files to the µ-SD card's root.
+To install the firmware, as for the first version of the RGBtoHDMI, simply extract the files to the µ-SD card's root and follow the instruction from Amiga_Readme.txt inside the Amiga_CPLD_Setup directory.
 
 Here some pictures from Lolof of the Tiny CPLD RGBtoHDMI installed onto an A500 with the excellent TK030 from Matze !
 
