@@ -1,16 +1,48 @@
 # RGBtoHDMI
 The RGBtoHDMI device adds an HDMI output to your AMIGA only in OCS display mode thanks to the use of a Raspberry Pi0.
-The original RGB2HDMI, designed by c0pperdragon can be found here:
+The very first RGB2HDMI design has been made by c0pperdragon. It can be found here:
 
 https://github.com/c0pperdragon/Amiga-Digital-Video/
 
-# Low profile board based on design from c0pperdragon
 Originally, I made my own version since I wanted the smallest possible pcb for my personnal use, and also for the use of my friend Lolof.
 The aim of these designs is to allow the combined use of the RGB2HDMI and others expansions as accelerator boards for example like the big board of the Mega Midget Racer.
-Actually, There is one version specially designed for the CDTV, and various designs for the AMIGA computers.
-The goal is always the same,having a nice and small board.
+
+Here, you'll find the three lowprofile following versions of the RGBtoHDMI I designed with Kicad:
+
+1- CPLD design for A500/2000 (the last board I designed).
+
+2- Original Design for the CDTV.
+
+3- Original Design for the A500 & A2000.
+
+# Tiny RGB2HDMI CPLD design
+Always with the same goal, as small as possible, this board uses the CPLD Rev1.1 design from solarmon. But, since the configuration menu is accessible with one button, the 3 buttons and the OSD connector (no interest for my use) have been removed.
+
+The firmware can be downloaded onto the official Github of the original CPLD version from hoglet67 here:
+
+https://github.com/hoglet67/RGBtoHDMI/releases
+
+To install the firmware, as for the first version of the RGBtoHDMI, simply extract the files to the µ-SD card's root and follow the instruction from Amiga_Readme.txt inside the Amiga_CPLD_Setup directory.
+
+Here some pictures from Lolof of the Tiny CPLD RGBtoHDMI installed onto an A500 with the excellent TK030 from Matze !
+
+![1633015126219_resultat](https://user-images.githubusercontent.com/80821708/135524331-9036771d-9546-4b01-b948-35bdff91a01b.jpg)
+
+![1633015126210_resultat](https://user-images.githubusercontent.com/80821708/135524359-c0f95306-6099-479f-9994-665e182bb074.jpg)
+
+![1633026660919_resultat](https://user-images.githubusercontent.com/80821708/135524387-35aabe34-98bd-4051-b039-a7081cd79ce7.jpg)
+
+![1633026660925_resultat](https://user-images.githubusercontent.com/80821708/135524398-519e852d-e841-4ca8-b396-10a858cff933.jpg)
+
+
+
+# Low profile board based on design from c0pperdragon
 
 # CDTV board
+
+Here is the version specially designed for the CDTV.
+The goal is always the same,having a nice and small board. :-)
+
 ![image](https://user-images.githubusercontent.com/80821708/132410431-fb2bdf61-70f5-4863-b9c6-cae65485336b.png)
 
 ![1622293352562](https://user-images.githubusercontent.com/80821708/132410642-dd25a9fc-f3ce-4397-81d3-e1ae0d64e1fb.jpg)
@@ -61,25 +93,6 @@ And the first version onto my A500+ Red edition!
 ![IMG_20210501_200834_resultat](https://user-images.githubusercontent.com/80821708/132984767-08344267-75b9-4640-849e-3868458e6e78.jpg)
 
 ![IMG_20210501_200843_resultat](https://user-images.githubusercontent.com/80821708/132984772-09681e47-98d3-4730-8c78-369d51cbf282.jpg)
-
-# Tiny RGB2HDMI CPLD design
-Always with the same goal, as small as possible, this board uses the CPLD Rev1.1 design from solarmon. But, since the configuration menu is accessible with one button, the 3 buttons and the OSD connector (no interest for my use) have been removed.
-
-The firmware can be downloaded onto the official Github of the original CPLD version from hoglet67 here:
-
-https://github.com/hoglet67/RGBtoHDMI/releases
-
-To install the firmware, as for the first version of the RGBtoHDMI, simply extract the files to the µ-SD card's root and follow the instruction from Amiga_Readme.txt inside the Amiga_CPLD_Setup directory.
-
-Here some pictures from Lolof of the Tiny CPLD RGBtoHDMI installed onto an A500 with the excellent TK030 from Matze !
-
-![1633015126219_resultat](https://user-images.githubusercontent.com/80821708/135524331-9036771d-9546-4b01-b948-35bdff91a01b.jpg)
-
-![1633015126210_resultat](https://user-images.githubusercontent.com/80821708/135524359-c0f95306-6099-479f-9994-665e182bb074.jpg)
-
-![1633026660919_resultat](https://user-images.githubusercontent.com/80821708/135524387-35aabe34-98bd-4051-b039-a7081cd79ce7.jpg)
-
-![1633026660925_resultat](https://user-images.githubusercontent.com/80821708/135524398-519e852d-e841-4ca8-b396-10a858cff933.jpg)
 
 
 I hope you'll enjoy these versions of this great device !
