@@ -88,7 +88,7 @@ And some pictures from Lolof of this second version rgb2hdmi in action onto his 
 
 ![IMG_20210213_005314](https://user-images.githubusercontent.com/80821708/132981533-9b068d35-23b8-4d4f-8aa6-f0ac9f72b23c.jpg)
 
-And the first version onto my A500+ Red edition!
+And the first version onto my A500+ Red edition used with the Vampire V2+!
 
 ![IMG_20210501_200834_resultat](https://user-images.githubusercontent.com/80821708/132984767-08344267-75b9-4640-849e-3868458e6e78.jpg)
 
