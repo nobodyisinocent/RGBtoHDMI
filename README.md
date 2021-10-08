@@ -1,4 +1,12 @@
-# RGBtoHDMI
+# Table of contents
+1. [What is the RGBtoHDMI board](#RGBtoHDMI)
+2. [Tiny RGB2HDMI CPLD design](#Tiny-RGB2HDMI-CPLD-design)
+3. [Low profile board based on design from c0pperdragon](#c0pperdraggon-design-based)
+    1. [CTDV board !](#CDTV-board)
+    2. [AMIGA 500 boards](#AMIGA-500-boards)
+   
+
+# What is the RGBtoHDMI board <a name="RGBtoHDMI"></a>
 The RGBtoHDMI device adds an HDMI output to your AMIGA only in OCS display mode thanks to the use of a Raspberry Pi0.
 The very first RGB2HDMI design has been made by c0pperdragon. It can be found here:
 
@@ -7,15 +15,9 @@ https://github.com/c0pperdragon/Amiga-Digital-Video/
 Originally, I made my own version since I wanted the smallest possible pcb for my personnal use, and also for the use of my friend Lolof.
 The aim of these designs is to allow the combined use of the RGB2HDMI and others expansions as accelerator boards for example like the big board of the Mega Midget Racer.
 
-Here, you'll find the three lowprofile following versions of the RGBtoHDMI I designed with Kicad:
+Here, you'll find the three lowprofile following versions of the RGBtoHDMI I designed with Kicad and FreeRooting under Linux.
 
-1- CPLD design for A500/2000 (the last board I designed).
-
-2- Original Design for the CDTV.
-
-3- Original Design for the A500 & A2000.
-
-# Tiny RGB2HDMI CPLD design
+## Tiny RGB2HDMI CPLD design <a name="Tiny-RGB2HDMI-CPLD-design"></a>
 Always with the same goal, as small as possible, this board uses the CPLD Rev1.1 design from solarmon. But, since the configuration menu is accessible with one button, the 3 buttons and the OSD connector (no interest for my use) have been removed.
 
 The firmware can be downloaded onto the official Github of the original CPLD version from hoglet67 here:
@@ -36,9 +38,9 @@ Here some pictures from Lolof of the Tiny CPLD RGBtoHDMI installed onto an A500 
 
 
 
-# Low profile board based on design from c0pperdragon
+# Low profile board based on design from c0pperdragon <a name="c0pperdraggon-design-based"></a>
 
-# CDTV board
+## CDTV board <a name="CDTV-board"></a>
 
 Here is the version specially designed for the CDTV.
 The goal is always the same,having a nice and small board. :-)
@@ -62,8 +64,7 @@ The goal is always the same,having a nice and small board. :-)
 ![1615405848665_resultat](https://user-images.githubusercontent.com/80821708/132411645-ddd7a561-771b-46e4-bd82-97a1b9bce416.jpg)
 
 
-
-# AMIGA 500 boards
+## AMIGA 500 boards <a name="AMIGA-500-boards"></a>
 
 Two designs versions have been done. Here they are:
 
